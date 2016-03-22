@@ -1,0 +1,27 @@
+    1  ls
+    2  cat creds 
+    3  aws configure 
+    4  youtube-dl https://www.youtube.com/watch?v=DNGmD6FcQdY
+    5  ls
+    6  mv Northern\ Iowa\ vs.\ Texas\ A\&M\ -\ Aggies\ mount\ massive\ comeback\ in\ final\ minute-DNGmD6FcQdY.mkv netflix.mkv
+    7  youtube-dl https://www.youtube.com/watch?v=eLfFeuYFqGQ
+    8  ls
+    9  mv L
+   10  mv Let\'s\ Play\ -Black\ Ops\ ll-eLfFeuYFqGQ.mp4 netflix2.mp4
+   11  clear
+   12  git clone https://github.com/adonis240/learningaws.git
+   13  ls
+   14  mv netflix2.mp4 learningaws/
+   15  ls
+   16  cd learningaws/
+   17  ls
+   18  aws
+   19  aws s3 mb s3://adonis240-netflix 
+   20  ls
+   21  ls-ll
+   22  ls - ll
+   23  ls -ll
+   24  history 
+   25  aws s3 mv netflix2.mp4 s3://adonis240-netflix
+   26  history
+   27  history >> s3commands.txt
